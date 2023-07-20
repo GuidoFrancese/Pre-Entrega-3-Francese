@@ -1,6 +1,10 @@
 header {
     height: 30vh;
     background-color: #313030;
+    
+    ul{
+      background-color: $backgroundheader;
+    }
   
   .container-mt-2 {
       color: #f56e14;
