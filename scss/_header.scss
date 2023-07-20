@@ -5,6 +5,22 @@ header {
   .container-mt-2 {
       color: #f56e14;
     }
+    .btn-outline-success {
+        --bs-btn-color: #fff;
+        --bs-btn-border-color: #000000;
+        --bs-btn-hover-color: #ffffff;
+        --bs-btn-hover-bg: #f56e14;
+        --bs-btn-hover-border-color: #f56e14;
+        --bs-btn-focus-shadow-rgb: 25, 135, 84;
+        --bs-btn-active-color: #fff;
+        --bs-btn-active-bg: #f56e14;
+        --bs-btn-active-border-color: #f56e14;
+        --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+        --bs-btn-disabled-color: #f56e14;
+        --bs-btn-disabled-bg: transparent;
+        --bs-btn-disabled-border-color: #f56e14;
+        --bs-gradient: none;
+      }
   }
 .navbar-brand,
 .nav-link,
